@@ -85,6 +85,8 @@ https://yourusername.github.io/portfolio/
 Add your portfolio screenshot here.
 
 Example:
+<img width="1887" height="929" alt="image" src="https://github.com/user-attachments/assets/2481eede-f8e0-4fbd-8304-4417af8ed71a" />
+
 
 ```
 assets/screenshot.png
